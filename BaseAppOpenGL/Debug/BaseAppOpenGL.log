@@ -1,0 +1,7 @@
+﻿  Main.cpp
+D:\Area de trabalho\aulanskty\cg\CG 150 TITAN\BaseAppOpenGL_T3821\BaseAppOpenGL\Main.cpp(182,3): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  Scene5.cpp
+D:\Area de trabalho\aulanskty\cg\CG 150 TITAN\BaseAppOpenGL_T3821\BaseAppOpenGL\Scene5.cpp(374,21): warning C4309: 'argument': truncation of constant value
+  SceneManager.cpp
+  Generating Code...
+  BaseAppOpenGL.vcxproj -> D:\Area de trabalho\aulanskty\cg\CG 150 TITAN\BaseAppOpenGL_T3821\Debug\BaseAppOpenGL.exe
